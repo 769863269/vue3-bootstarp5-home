@@ -20,4 +20,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 6. 配置 font.css 样式  在 main.js 引入即可调用成功
 7. 安装格式化插件 prettierrc 并进行相关格式化配置
 
+
+
+蔡依林，202406180131，改
 ```
