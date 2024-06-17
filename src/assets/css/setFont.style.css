@@ -1,0 +1,7 @@
+@import url('../font/AlibabaFont.css'); /*alibaba45/alibaba85*/
+@import url('../font/PoppinsFont.css'); /*Poppins*/
+
+* {
+    /* 设置全局默认字体样式 */
+    font-family: 'Poppins', 'alibaba45', sans-serif;
+}

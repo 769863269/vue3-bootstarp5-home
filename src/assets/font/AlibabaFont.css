@@ -1,0 +1,10 @@
+/* 阿里巴巴 45r  85b */
+@font-face {
+    font-family: 'alibaba45';
+    src: url(./alibaba/AlibabaHealthFont2.0CN-45R.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'alibaba85';
+    src: url(./alibaba/AlibabaHealthFont2.0CN-85B.ttf) format(truetype);
+}
