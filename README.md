@@ -7,6 +7,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 -   [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
 
 ```js
+注意：记得使用git进行存档上传
 1. 安装vite-vue
 2. 安装路由
 3. 安装前端框架 - bootstarpv5
