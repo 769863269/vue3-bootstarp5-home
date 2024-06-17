@@ -9,14 +9,14 @@
                 type="button"
                 class="btn btn-primary"
             >
-                Primary
+                主页-1
             </button>
             <button
                 @click="$router.push({ path: '/dome2' })"
                 type="button"
                 class="btn btn-secondary"
             >
-                Secondary
+                主页-2
             </button>
             <button
                 type="button"
@@ -64,4 +64,8 @@
     </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+    button {
+        margin: 0 10px;
+    }
+</style>
